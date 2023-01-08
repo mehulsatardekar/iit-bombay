@@ -1,0 +1,153 @@
+[
+  {
+    "invoiceid": 12,
+    "clientname": "Thomas Lynial",
+    "clienttype": "in-state",
+    "date": "2016-08-21T00:00:00.000Z",
+    "duedate": "2018-08-24T00:00:00.000Z",
+    "total": 78.0,
+    "balance": 678.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 13,
+    "clientname": "Jason Jornal",
+    "clienttype": "in-state",
+    "date": "2011-08-21T00:00:00.000Z",
+    "duedate": "2011-05-11T00:00:00.000Z",
+    "total": 678.0,
+    "balance": 6378.0,
+    "status": "PartialPayment"
+  },
+  {
+    "invoiceid": 14,
+    "clientname": "Micheal Strikes",
+    "clienttype": "out-state",
+    "date": "2015-08-21T00:00:00.000Z",
+    "duedate": "2022-08-11T00:00:00.000Z",
+    "total": 678.0,
+    "balance": 3378.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 15,
+    "clientname": "Jenson Clark",
+    "clienttype": "out-state",
+    "date": "2010-08-21T00:00:00.000Z",
+    "duedate": "2010-08-22T00:00:00.000Z",
+    "total": 678.0,
+    "balance": 678.0,
+    "status": "Paid"
+  },
+  {
+    "invoiceid": 16,
+    "clientname": "Michelle Stark",
+    "clienttype": "out-state",
+    "date": "2020-08-25T00:00:00.000Z",
+    "duedate": "2022-08-12T00:00:00.000Z",
+    "total": 178.0,
+    "balance": 678.0,
+    "status": "Paid"
+  },
+  {
+    "invoiceid": 17,
+    "clientname": "Mehul Satardekar",
+    "clienttype": "in-state",
+    "date": "2010-08-25T00:00:00.000Z",
+    "duedate": "2022-08-12T00:00:00.000Z",
+    "total": 978.0,
+    "balance": 123678.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 18,
+    "clientname": "Simran Shah",
+    "clienttype": "out-state",
+    "date": "2005-01-15T00:00:00.000Z",
+    "duedate": "2012-10-22T00:00:00.000Z",
+    "total": 178.0,
+    "balance": 678.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 19,
+    "clientname": "Michelle Stark",
+    "clienttype": "out-state",
+    "date": "2015-11-23T00:00:00.000Z",
+    "duedate": "2021-08-01T00:00:00.000Z",
+    "total": 54378.0,
+    "balance": 999678.0,
+    "status": "PartialPayment"
+  },
+  {
+    "invoiceid": 20,
+    "clientname": "Rohan Mandora",
+    "clienttype": "out-state",
+    "date": "2020-08-25T00:00:00.000Z",
+    "duedate": "2022-08-12T00:00:00.000Z",
+    "total": 1378.0,
+    "balance": 32678.0,
+    "status": "Paid"
+  },
+  {
+    "invoiceid": 21,
+    "clientname": "Bhuvan Bam",
+    "clienttype": "in-state",
+    "date": "2010-08-25T00:00:00.000Z",
+    "duedate": "2022-08-12T00:00:00.000Z",
+    "total": 178.0,
+    "balance": 4478.0,
+    "status": "PartialPayment"
+  },
+  {
+    "invoiceid": 22,
+    "clientname": "Shouvik Roy",
+    "clienttype": "in-state",
+    "date": "2023-08-25T00:00:00.000Z",
+    "duedate": "2025-08-12T00:00:00.000Z",
+    "total": 78.0,
+    "balance": 978.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 23,
+    "clientname": "Neha Oberoi",
+    "clienttype": "in-state",
+    "date": "2023-08-25T00:00:00.000Z",
+    "duedate": "2025-08-12T00:00:00.000Z",
+    "total": 1378.0,
+    "balance": 96378.0,
+    "status": "Paid"
+  },
+  {
+    "invoiceid": 24,
+    "clientname": "Surya rao",
+    "clienttype": "in-state",
+    "date": "2021-08-15T00:00:00.000Z",
+    "duedate": "2022-08-02T00:00:00.000Z",
+    "total": 348.0,
+    "balance": 3978.0,
+    "status": "PartialPayment"
+  },
+  {
+    "invoiceid": 25,
+    "clientname": "Ramesh Shetty",
+    "clienttype": "in-state",
+    "date": "2023-08-25T00:00:00.000Z",
+    "duedate": "2025-08-12T00:00:00.000Z",
+    "total": 12.0,
+    "balance": 978.0,
+    "status": "Draft"
+  },
+  {
+    "invoiceid": 26,
+    "clientname": "Suresh Roy",
+    "clienttype": "in-state",
+    "date": "2023-08-25T00:00:00.000Z",
+    "duedate": "2025-08-12T00:00:00.000Z",
+    "total": 758.0,
+    "balance": 1978.0,
+    "status": "Paid"
+  }
+
+]

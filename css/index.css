@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --col-text-blue: #8c8cf5;
+  --col-text-light: #494a4a;
+  --col-text-pink: #fba5ae;
+  --pills-color-pink: #f9838b;
+  --pills-color-blue: #6f8efa;
+  --pills-color-violet: #5858ba;
+  --input-status-color: #f09d9d;
+  --input-client-color: #6f8efa;
+  --input-enddate-color: #9fa3e0;
+  --input-startdate-color: #5858ba;
+  --title-text-color: #F3707D;
+}
+
+body {
+  background: #f6f6fe;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title{
+  color:var(--title-text-color);
+  font-weight: bold;
+}
+.filter-data-container {
+  background: #f5e9eb;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.filter-list-elements {
+  width: 70%;
+  margin-top: 2rem;
+}
+
+.filter-table-head-container {
+  background: white;
+}
+
+.customer-datalist-container {
+  background: white;
+}
+
+.text-blue {
+  color: var(--col-text-blue);
+}
+
+.text-gray {
+  color: var(--col-text-light);
+}
+
+.text-pink {
+  color: var(--col-text-pink);
+}
+
+.pink-pill {
+  background: var(--pills-color-pink);
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: white;
+}
+
+.blue-pill {
+  background: var(--pills-color-blue);
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: white;
+}
+
+.violet-pill {
+  background: var(--pills-color-violet);
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: white;
+}
+
+.input-status {
+  background-color: var(--input-status-color);
+  color: white;
+}
+
+.input-client {
+  background-color: var(--input-client-color);
+  color: white;
+}
+
+.input-enddate {
+  background-color: var(--input-enddate-color);
+  color: white;
+}
+
+.input-begindate {
+  background-color: var(--input-startdate-color);
+  color: white;
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+@media (min-width: 268px) and (max-width: 600px) { 
+
+  .container{
+    width: 100%;
+    margin: auto;
+  }
+
+  .filter-list-elements {
+    width: 100%;
+    
+  }
+ }
